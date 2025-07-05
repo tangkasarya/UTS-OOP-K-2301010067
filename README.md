@@ -1,2 +1,3 @@
-*UTS*
-*I Putu Tangkas Aryadharma - 2301010067*
+# TANGKAS 
+# 2301010067
+# UTS
